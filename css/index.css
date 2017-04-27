@@ -1,0 +1,76 @@
+body{
+    font-family:Comic Sans MS;
+}
+#nav{
+  margin:0 100px 20px 20px;
+}
+#nav ul{
+    list-style-type: none;
+    text-align: center;
+    margin-left:8px;
+}
+#nav ul li{
+    float:left;
+    margin:0 2px;
+    width:100px;
+    padding:10px;
+    font-size:18px;
+}
+#nav ul li img{
+    width:50px;
+    height:50px;
+    margin-top:-15px;
+
+}
+.container img{
+    width:100%;
+    margin:0 auto;
+    border:1px solid #ccc;
+}
+.container{
+    width:95%;
+    margin:0 auto;
+
+
+}
+#intro{
+    margin-top:50px;
+    text-align:left;
+}
+h2{
+    text-align:center;
+    font-size:24px;
+    font-family:Segoe Script;
+}
+p{
+    padding:20px 100px;
+    font-size:16px!important;
+    text-indent:2em;
+    font-family:黑体;
+
+
+}
+#member{
+
+    text-align: left;
+
+}
+#member div{
+    display:inline-block;
+    width:400px;
+    height:700px;
+    border:1px solid #ccc;
+    border-radius:15px;
+    margin-left:35px;
+    vertical-align:top;
+}
+#member ul{
+    list-style-type: none;
+    text-align:left;
+}
+#member img{
+    margin:30px;
+    width:350px;
+    height:350px;
+}
+
